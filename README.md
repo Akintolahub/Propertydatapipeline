@@ -1,0 +1,1 @@
+This document details the process of the project
